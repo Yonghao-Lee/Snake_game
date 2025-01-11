@@ -1,0 +1,3 @@
+/Users/yonghaolee/Documents/my_sfml_project_bonus/cmake-build-debug/CMakeFiles/my_sfml_project_bonus.dir
+/Users/yonghaolee/Documents/my_sfml_project_bonus/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yonghaolee/Documents/my_sfml_project_bonus/cmake-build-debug/CMakeFiles/rebuild_cache.dir
