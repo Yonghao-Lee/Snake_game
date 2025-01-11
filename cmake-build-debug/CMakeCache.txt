@@ -228,6 +228,15 @@ my_sfml_project_bonus_IS_TOP_LEVEL:STATIC=ON
 //Value Computed by CMake
 my_sfml_project_bonus_SOURCE_DIR:STATIC=/Users/yonghaolee/Documents/my_sfml_project_bonus
 
+//Value Computed by CMake
+snake-game_BINARY_DIR:STATIC=/Users/yonghaolee/Documents/my_sfml_project_bonus/cmake-build-debug
+
+//Value Computed by CMake
+snake-game_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+snake-game_SOURCE_DIR:STATIC=/Users/yonghaolee/Documents/my_sfml_project_bonus
+
 
 ########################
 # INTERNAL cache entries

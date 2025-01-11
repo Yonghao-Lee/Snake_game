@@ -47,18 +47,17 @@ sudo apt install libsfml-dev
 Or download the appropriate library version from the SFML website and configure your system manually.
 
 #### Windows
-Cant't care less about Windows, but you can download the SFML 2.5.1 binaries from the official website and link them to your project.
+Can't care less about Windows, but you can download the SFML 2.5.1 binaries from the official website and link them to your project.
 ---
 
 ### Step 2: Clone the Repository
 
 Clone the repository using Git:
 ```bash
-git clone <repository-link>
-cd <repository-folder>
+git clone https://github.com/Yonghao-Lee/Snake_game.git
+
 ```
 
-Ensure the repository includes the `assets` folder, which contains the required font file.
 
 ---
 
@@ -72,10 +71,7 @@ cmake ..
 make
 ```
 
-Alternatively, if building manually using `clang++`:
-```bash
-clang++ -std=c++17 main.cpp -o snake-game -lsfml-graphics -lsfml-window -lsfml-system
-```
+
 
 ---
 
@@ -83,16 +79,15 @@ clang++ -std=c++17 main.cpp -o snake-game -lsfml-graphics -lsfml-window -lsfml-s
 
 From the `build/` directory:
 ```bash
-./snake-game
+./my_sfml_project_bonus
 ```
 
-Ensure the `assets` folder (containing the font) is in the same directory where the binary is executed, or modify the code to load the font from an absolute path.
 
 ---
 
 ## Font Installation
 
-The game uses a font file (`<your_font_name>.ttf`) which is located in the `assets` folder of the project repository. Ensure this folder is not moved or deleted, as the game will fail to load without it.
+The game uses a font file (`Arial.ttf`) which is located in the `fonts` folder of the project repository. Ensure this folder is not moved or deleted, as the game will fail to load without it.
 
 ---
 
@@ -110,4 +105,4 @@ The game uses a font file (`<your_font_name>.ttf`) which is located in the `asse
 
 ---
 
-Let me know if you need more details added or further adjustments!
+Remember, 42 is the answer to everything. Good luck!

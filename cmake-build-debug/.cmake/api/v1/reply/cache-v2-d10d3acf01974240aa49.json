@@ -1176,6 +1176,42 @@
 			],
 			"type" : "STATIC",
 			"value" : "/Users/yonghaolee/Documents/my_sfml_project_bonus"
+		},
+		{
+			"name" : "snake-game_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/yonghaolee/Documents/my_sfml_project_bonus/cmake-build-debug"
+		},
+		{
+			"name" : "snake-game_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "snake-game_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/Users/yonghaolee/Documents/my_sfml_project_bonus"
 		}
 	],
 	"kind" : "cache",
